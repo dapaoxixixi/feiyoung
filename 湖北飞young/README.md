@@ -16,3 +16,7 @@
   将其文本复制到启动项里，也可作为脚本自行添加开机自启
 ```
 ![auto](https://github.com/dapaoxixixi/hubeifeiyoung/blob/main/%E6%B9%96%E5%8C%97%E9%A3%9Eyoung/1.png)
+
+
+
+# 自行配置好fy.conf文件，如果是武汉的只需要填写手机号，和31天的安卓端抓包密码，即post请求里%21%5EAdcm0后面跟着的16位

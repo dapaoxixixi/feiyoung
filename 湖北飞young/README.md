@@ -6,6 +6,7 @@
   cd /bin   chmod u+x fy
 ```
 ### *或用winscp直接修改权限
+![auto](https://github.com/dapaoxixixi/hubeifeiyoung/blob/main/%E6%B9%96%E5%8C%97%E9%A3%9Eyoung/2.png)
 
 ## fy.conf fy配置文件 将其放入/etc文件夹下，并增加权限
 ```
@@ -13,6 +14,6 @@
 ```
 ## auto.txt 开机自启动网络监测自动重连脚本
 ```
-https://github.com/dapaoxixixi/hubeifeiyoung/blob/main/%E6%B9%96%E5%8C%97%E9%A3%9Eyoung/1.png
+  将其写入/etc/init.d的ipset.sh里，START为启动优先级，可自行调整，数值越大，优先级越低
 ```
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+![auto](https://github.com/dapaoxixixi/hubeifeiyoung/blob/main/%E6%B9%96%E5%8C%97%E9%A3%9Eyoung/1.png)

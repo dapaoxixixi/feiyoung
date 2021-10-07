@@ -13,7 +13,7 @@ else
 
 	echo "unsuccessful"
 
-	/bin/fy.sh
+	/bin/fy
 
 	sleep 20
 fi

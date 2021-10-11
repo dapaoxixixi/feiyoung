@@ -11,11 +11,11 @@
 ```
   cd /etc   chmod u+x fy.conf
 ```
-## auto.txt 开机自启动网络监测自动重连脚本
+## 每分钟自动执行一次，确保开机有网，监测断网重连， 文本复制到计划任务里里
 ```
-  将其文本复制到启动项里，也可作为脚本自行添加开机自启
+  * * * * * /bin/py
 ```
-![auto](https://github.com/dapaoxixixi/hubeifeiyoung/blob/main/%E6%B9%96%E5%8C%97%E9%A3%9Eyoung/)
+![auto](https://github.com/dapaoxixixi/hubeifeiyoung/blob/main/%E6%B9%96%E5%8C%97%E9%A3%9Eyoung/0.png)
 
 
 

@@ -36,6 +36,17 @@ login() {
 }
 
 main() {
+
+	sleep 10
+	ping -c 3 14.215.177.37 >/dev/null
+
+if [  $? -eq 0  ];then
+
+	echo "Logged in"
+
+else
+
+	echo "Not logged in"
 	init
 		if [ $is_login == "false" ]; then
 		login
@@ -47,6 +58,7 @@ main() {
 			fi
 
 	fi
+fi
 }
 
 main $@

@@ -24,7 +24,7 @@
 
 - 至此，我们已经成功登陆。切记，在有网的时候请不要点击登录，否则会引起软件迟缓卡退。
 
-<img width="600" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc3.png">
+<img width="600" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc5.png">
 
 ```
 注意，请在路由器wan口插入网线，且设备连接路由器的情况下打开软件登录；或者在设备插有网线或是wifi已连接到校园网的状态下登陆。

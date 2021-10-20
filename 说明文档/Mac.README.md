@@ -10,7 +10,7 @@
 鼠标右键或双指按下触控板/Contents/Resources/cy.ini
 ```
 
-<img width="600" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc5.png">
+<img width="600" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc4.png">
 
 - 我们在配置文件里填上手机号码和31天的加密密码，然后保存
 

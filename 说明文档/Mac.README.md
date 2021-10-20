@@ -16,7 +16,9 @@
 
 <img width="600" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc2.png">
 
-- 在我们下次打开软件的时候，点击chong-young，它会自动匹配账号和当前日期的密码，然后点击登录
+- 在我们下次打开软件的时候，点击chong-young，它会自动匹配账号和当前日期的密码。
+- 
+- 我们要做的，就是先点击chong-young，再点击登陆。
 
 <img width="600" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc3.png">
 

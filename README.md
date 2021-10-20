@@ -34,9 +34,9 @@
 
 ## 🦋 使用说明
 
-- [路由器版](/.md)
-- [Windows版](/.md)
-- [Mac版](/.md)
+- [路由器版](/说明文档/Shell.README.md)
+- [Windows版](/说明文档/Win.README.md)
+- [Mac版](/说明文档/Mac.README.md)
 
 ## 📝 更多信息
 

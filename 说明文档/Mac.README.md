@@ -4,7 +4,7 @@
 
 <img width="300" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc1.png">
 
-- 他会在如下目录生成cy.ini配置文件
+- 打开软件,如果检测不到配置文件，它会在如下目录自动生成cy.ini配置文件
 
 ```
 鼠标右键或双指按下触控板/Contents/Resources/cy.ini

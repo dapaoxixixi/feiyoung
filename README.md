@@ -17,7 +17,7 @@
 
 ## 💡 介绍
 
-冲young本质上是本人为了学编程无聊写出来的，所以核心部分的代码就开源了，至于加密算法不提供，31天的密码请自行抓包获取。
+冲young本质上是为了学编程无聊写的，所以代码就开源了，至于加密算法不提供，31天的密码请自行抓包获取。
 
 <img width="300" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc1.png">
 

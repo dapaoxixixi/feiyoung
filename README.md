@@ -22,6 +22,13 @@
 
 <img width="500" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc1.png">
 
+## ☄️  优势
+
+1. 可以让任何拥有冲young程序的设备，免心跳连接校园网。
+2. 无论是shell版本或者是其他版本，都可以给路由器联网，服务器分配的ip有效期是72h，也就是说在保持网络活动的情况下72h断网一次。
+3. 想要不断网请用路由器脚本，或是任何无线网络设备，保持不大于59秒的持续ping任何网站。
+4. 
+
 
 
 

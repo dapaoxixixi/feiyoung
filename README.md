@@ -1,7 +1,7 @@
 <p align="center">
   <img width="200" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/ws.jpg" alt="logo">
   <h1 align="center" style="margin: 0 auto 0 auto;">冲Young</h1>
-  <h5 align="center" style="margin: 0 auto 0 auto;">免心跳登陆，路由器登陆</h5>
+  <h5 align="center" style="margin: 0 auto 0 auto;">免心跳登陆，路由器登陆，交流qq群：595850229</h5>
   </p>
 
   <p align="center">

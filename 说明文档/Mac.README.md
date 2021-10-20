@@ -10,4 +10,4 @@
 鼠标右键或双指按下触控板/Contents/Resources/cy.ini
 ```
 
-<img width="300" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc4.png">
+<img width="500" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc4.png">

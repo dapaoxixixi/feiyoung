@@ -2,7 +2,7 @@
 
 - 首先这是软件打开的界面
 
-<img width="300" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc1.png">
+<img width="300" alt="首页" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc1.png">
 
 - 打开软件,如果检测不到配置文件，它会在如下目录自动生成cy.ini配置文件
 
@@ -10,20 +10,20 @@
 鼠标右键或双指按下触控板/Contents/Resources/cy.ini
 ```
 
-<img width="600" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc4.png">
+<img width="600" alt="配置" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc4.png">
 
 - 我们在配置文件里填上手机号码和31天的加密密码，然后保存
 
-<img width="600" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc2.png">
+<img width="600" alt="加载" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc2.png">
 
 - 在我们下次打开软件的时候，点击chong-young，它会自动匹配账号和当前日期的密码。
 - 我们要做的，就是先点击chong-young，再点击登陆。
 
-<img width="600" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc3.png">
+<img width="600" alt="登陆" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc3.png">
 
 - 至此，我们已经成功登陆。切记，在有网的时候请不要点击登录，否则会引起软件迟缓卡退。
 
-<img width="300" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc5.png">
+<img width="300" alt="注意" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc5.png">
 
 ## ⏰ 注意：
 

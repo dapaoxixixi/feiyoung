@@ -25,7 +25,7 @@
 
 <img width="500" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc5.png">
 
-## 💻 Mac版说明文档
+## ⏰ 注意：
 
 ```
 注意，请在路由器wan口插入网线，且设备连接路由器的情况下打开软件登录；或者在设备插有网线或是wifi已连接到校园网的状态下登陆。

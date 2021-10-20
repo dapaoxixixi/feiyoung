@@ -1,6 +1,6 @@
 <p align="center">
   <img width="200" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/ws.jpg" alt="logo">
-  <h1 align="center" style="margin: 0 auto 0 auto;">chong-young</h1>
+  <h1 align="center" style="margin: 0 auto 0 auto;">冲Young</h1>
   <h5 align="center" style="margin: 0 auto 0 auto;">湖北飞young免心跳登陆端</h5>
   </p>
 

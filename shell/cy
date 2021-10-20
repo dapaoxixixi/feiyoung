@@ -1,0 +1,55 @@
+#!/bin/sh
+
+path="/etc/cy.conf"
+
+init() {
+    user=`cat $path | grep -vE "^#" | grep user= |awk -F= '{print $2}' `
+    passwd=`cat $path | grep -vE "^#" | grep passwd= |awk -F= '{print $2}' `
+    session=`echo -n $passwd | md5sum | cut -c-32`
+    acname=`cat $path | grep -vE "^#" | grep acname= |awk -F= '{print $2}' `
+    system=`cat $path | grep -vE "^#" | grep pe= |awk -F= '{print $2}' `
+    prefix=`cat $path | grep -vE "^#" | grep pe_name= |awk -F= '{print $2}' `
+    loginUrl=`cat $path | grep -vE "^#" | grep loginUrl= |awk -F= '{print $2}' `
+    aa=`cat $path | grep -vE "^#" | grep aa= |awk -F= '{print $2}' `
+    ab=`cat $path | grep -vE "^#" | grep ab= |awk -F= '{print $2}' `
+    ac=`cat $path | grep -vE "^#" | grep ac= |awk -F= '{print $2}' `
+    ipv4=`ifconfig | grep "100.64" | awk '{ print $2}' | awk -F: '{print $2}'`
+    times=`date +"%Y%m%d%H%M%S"`
+    is_login="false"
+    if [ ${#ipv4} == "0" ]; then
+        date +"%Y%m%d%H%M%S ip获取失败，请重启网络或路由器" | tee -a /var/cy.log
+        exit
+    fi
+}
+
+login() {
+
+   	info=`echo "curl -d \"wlanacname=${acname}&wlanuserip=${ipv4}&button=Login&UserName=${prefix}${user}&Password=${passwd}&AidcAuthAttr1=${times}&AidcAuthAttr3=${aa}&AidcAuthAttr4=${ab}&AidcAuthAttr5=${ac}\" --cookie \"JSESSIONID=${session}\" -H \"User-Agent: ${system}\" -H \"Content-Type: application/x-www-form-urlencoded\"  \"${loginUrl}\"" | sh | sed "s/^/$times&/g"  | tee -a /var/cy.log`
+	echo $info | sed 's/\[20/\n&/g' | grep "<ReplyMessage>"
+	result=`echo $info | grep "<ResponseCode>50</ResponseCode>"`
+	if [ ${#result} != "0" ]; then
+		sed -i "/^user/ c\user=$user" $path
+		sed -i "/^passwd/ c\passwd=$passwd" $path
+		return 0
+	fi
+	return 1
+}
+
+main() {
+
+	ping -c 3 14.215.177.37 >/dev/null
+
+	init
+		if [ $is_login == "false" ]; then
+		login
+			if [ $? -ne 0  ]; then
+				today=`date +"%d" | sed -r 's/^0*([^0]+|0)$/\1/'`
+				today="^$today="
+				passwd=`cat $path | grep -vE "^#" | grep -E  $today |awk -F= '{print $2}' `
+				login
+			fi
+
+	fi
+}
+
+main $@

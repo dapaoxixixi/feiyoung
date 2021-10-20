@@ -20,7 +20,7 @@
 
 冲young本质上是本人为了学编程无聊写出来的，所以核心部分的代码就开源了，至于加密算法不提供，31天的密码请自行抓包获取。
 
-<img width="500" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc1.png">
+<img width="300" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc1.png">
 
 ## ☄️  优势
 
@@ -30,8 +30,7 @@
 4. 想要72h不断网请用路由器脚本，或是任何无线网络设备，保持不大于59秒的持续ping任何网站。
 5. 所有冲young版本均支持从配置文件自动获取账号以及对应日期的密码，所以打开软件不再需要手动输入，直接点击chong-young，会自动获取配置参数，然后点击登陆。
 
-
-
+## 🦋 支持 Tkinter Designer
 
 
 # 

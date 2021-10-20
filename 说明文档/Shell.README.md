@@ -4,7 +4,7 @@
 
 
 ```
-cd命令进入/bin与/etc，将两个文件提升权限 chmod u+x  或者如果，直接用WinSCP属性设置
+cd命令进入/bin与/etc，将两个文件提升权限 chmod u+x  或者，直接用WinSCP属性设置
 ```
 
 

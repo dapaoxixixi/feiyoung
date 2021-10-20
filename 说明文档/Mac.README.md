@@ -23,7 +23,7 @@
 
 - 至此，我们已经成功登陆。切记，在有网的时候请不要点击登录，否则会引起软件迟缓卡退。
 
-<img width="500" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc5.png">
+<img width="300" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc5.png">
 
 ## ⏰ 注意：
 

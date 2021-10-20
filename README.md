@@ -1,7 +1,7 @@
 <p align="center">
   <img width="200" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/ws.jpg" alt="logo">
   <h1 align="center" style="margin: 0 auto 0 auto;">冲Young</h1>
-  <h5 align="center" style="margin: 0 auto 0 auto;">湖北飞young免心跳登陆端</h5>
+  <h5 align="center" style="margin: 0 auto 0 auto;">免心跳登陆，路由器登陆</h5>
   </p>
 
   <p align="center">
@@ -16,7 +16,7 @@
 
 
 
-# 湖北飞young破解
+# 
 
 # shell版本可结合自动检测重连脚本使用，达到路由器开机有网，断网自动重连的效果
 

@@ -25,7 +25,7 @@ cd命令进入/bin与/etc，将两个文件提升权限 chmod u+x  或者如果�
 ```
 
 
-<img width=600" alt="设置脚本" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/op2.png">
+<img width="600" alt="设置脚本" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/op2.png">
 
 
 ## 👏 现在就可以享受7*24小时不间断网络服务啦

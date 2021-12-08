@@ -1,0 +1,17 @@
+# 填写手机号
+user=
+# 留空
+passwd=
+# 填写你学校的飞young服务器
+acname=059.172.216.049
+# 默认模拟安卓端登陆
+pe=CDMA+WLAN(Maod)
+# 默认前缀
+pe_name=%21%5EAdcm0
+# 默认登录地址
+loginUrl=http://58.53.199.144:8001/wispr_auth.jsp
+# AidcAuthAttr
+aa=VNdRYxtO
+ab=AZYCIkQWCs3skFXnr5oNtQ%3D%3D
+ac=VMtWYxlXAbCShlTi1I8KsbyvVia%2FRiyhjeFKpuOBr1z6
+# 每日的加密后密码

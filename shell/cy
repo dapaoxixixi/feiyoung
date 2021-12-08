@@ -1,6 +1,6 @@
 #!/bin/sh
 
-path="/etc/cy.conf"
+path="/etc/cy.txt"
 
 init() {
     user=`cat $path | grep -vE "^#" | grep user= |awk -F= '{print $2}' `

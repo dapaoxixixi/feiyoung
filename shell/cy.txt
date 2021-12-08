@@ -3,7 +3,7 @@ user=
 # 留空
 passwd=
 # 填写你学校的飞young服务器
-acname=059.172.216.049
+acname=
 # 默认模拟安卓端登陆
 pe=CDMA+WLAN(Maod)
 # 默认前缀

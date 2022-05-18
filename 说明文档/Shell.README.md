@@ -28,7 +28,7 @@
 ```
 
 
-<img width="600" alt="设置脚本" src="github.com/dapaoxixixi/feiyoung/blob/main/Image/3.png">
+<img width="600" alt="设置脚本" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/3.png">
 
 
 ## 👏 现在就可以享受7*24小时不间断网络服务啦

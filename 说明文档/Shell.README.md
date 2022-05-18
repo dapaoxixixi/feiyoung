@@ -1,27 +1,28 @@
 ## 💻 路由器版版说明文档
 
-- 用WinSCP将cy文件上传到 /bin 文件夹下 ， 将cy.conf文件上传到 /etc 文件夹下
+- 用WinScp将三个文件上传到 /bin 文件夹
 
 
 ```
-cd命令进入/bin与/etc，将两个文件提升权限 chmod u+x  或者，直接用WinSCP属性设置
+直接用WinSCP属性设置权限
 ```
 
 
 <img width="600" alt="上传文件" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/op1.png">
 
 
-- 如图，修改cy.conf，并保存
+- 如图，把帐号和31天密码填入userprofile.txt文件，并保存
 
 
 <img width="600" alt="修改文件" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/op3.png">
 
 
-- 在路由器的计划任务里设置每隔一分钟启动一次脚本，如图
+- 在路由器的计划任里设置每半分钟启动一次脚本，如图
 
 
 ```
 * * * * * /bin/cy
+* * * * * sleep 30; /bin/cy
 ```
 
 

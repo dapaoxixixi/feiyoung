@@ -25,7 +25,7 @@
 
 - 整个项目是我19年入学的时候无聊写的，后来完善了一下，但是现在快毕业了+劳资很有钱，所以就这样吧，期间有些小插曲，以至于我一度删除过一些东西，不过也都无所谓
 
-<img width="300" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/pc1.png">
+<img width="300" alt="Tkinter Designer GUI" src="https://github.com/dapaoxixixi/feiyoung/raw/main/Image/pc1.png">
 
 ## ☄️  优势
 

@@ -8,15 +8,15 @@
 ```
 
 
-<img width="600" alt="上传文件" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/s1.png">
+<img width="600" alt="上传文件" src="https://github.com/dapaoxixixi/feiyoung/raw/main/Image/s1.png">
 
-<img width="600" alt="上传文件" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/2.png">
+<img width="600" alt="上传文件" src="https://github.com/dapaoxixixi/feiyoung/raw/main/Image/2.png">
 
 
 - 如图，把帐号和31天密码填入userprofile.txt文件，并保存
 
 
-<img width="600" alt="修改文件" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/4.png">
+<img width="600" alt="修改文件" src="https://github.com/dapaoxixixi/feiyoung/raw/main/Image/4.png">
 
 
 - 在路由器的计划任里设置每半分钟启动一次脚本，如图
@@ -28,7 +28,7 @@
 ```
 
 
-<img width="600" alt="设置脚本" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/3.png">
+<img width="600" alt="设置脚本" src="https://github.com/dapaoxixixi/feiyoung/raw/main/Image/3.png">
 
 
 ## 👏 现在就可以享受7*24小时不间断网络服务啦

@@ -6,10 +6,10 @@
 
 - 第二部步，点击运行
 
-<img width="300" alt="第二部" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/ps1.png">
+<img width="300" alt="第二部" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/ps2.png">
 
 - 第三步，把运行结果复制粘贴到配置文件保存
 
-<img width="300" alt="第三部" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/ps1.png">
+<img width="300" alt="第三部" src="https://github.com/dapaoxixixi/feiyoung/blob/main/Image/ps3.png">
 
 好了，去使用吧

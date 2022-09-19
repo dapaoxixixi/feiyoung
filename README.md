@@ -40,6 +40,7 @@
 - [Windows版](/说明文档/Win.README.md)
 - [Mac版](/说明文档/Mac.README.md)
 - [安卓版](/说明文档/Android.README.md)
+- [获取密码](/PSWD.md)
 
 ## 📝 更多信息
 

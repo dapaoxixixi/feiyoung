@@ -58,6 +58,8 @@ main() {
                 day=`echo ${AidcAuthAttr1:6:2} | sed -r 's/^0*([^0]+|0)$/\1/'`
                 day="^$day="
                 passwd=`cat $userprofile | grep -vE "^#" | grep -E $day |awk -F= '{print $2}' `
+		# 拨号前重启wan防止失败
+		/sbin/ifup wan restart && sleep 15s
                 login
                 echo $result
                 echo 用户账号:$user
